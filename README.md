@@ -1,4 +1,6 @@
 ## Hi there 👋
+- I'm interested in Information Systems and Machine Learning
+- I'm currently working on a research project on the influence of political chatbots on US voters
 
 <!--
 **cmukdao/cmukdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
